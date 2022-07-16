@@ -6,7 +6,16 @@
     <description>Recent content in example-tag-a on example-github-pages-2022.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jul 2022 01:23:45 +0000</lastBuildDate><atom:link href="https://example-github-pages-2022.github.io/ja/tags/example-tag-a/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 01:23:45 +0000</lastBuildDate><atom:link href="https://example-github-pages-2022.github.io/ja/tags/example-tag-a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2番目の記事</title>
+      <link>https://example-github-pages-2022.github.io/ja/posts/2022/07/second-post/</link>
+      <pubDate>Sat, 16 Jul 2022 01:23:45 +0000</pubDate>
+      
+      <guid>https://example-github-pages-2022.github.io/ja/posts/2022/07/second-post/</guid>
+      <description>2番目の記事 これは2番目の記事です。</description>
+    </item>
+    
     <item>
       <title>最初の記事</title>
       <link>https://example-github-pages-2022.github.io/ja/posts/2022/07/first-post/</link>
